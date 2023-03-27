@@ -10,5 +10,5 @@ git add
 
 git branch
 
-git checkout -b <nazwa>  # tworzenie brancha
+git checkout -b <nazwa>  # tworzenie brancha yyyyyy
 
